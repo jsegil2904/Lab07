@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Chinook.Services.wcf.MantenimientosServices" CodeBehind="MantenimientosServices.svc.cs" %>

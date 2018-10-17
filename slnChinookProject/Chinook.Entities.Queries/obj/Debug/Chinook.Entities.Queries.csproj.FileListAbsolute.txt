@@ -1,0 +1,12 @@
+C:\Users\VS2017-DEV\Desktop\src\slnChinookProject\Chinook.Entities.Queries\bin\Debug\Chinook.Entities.Queries.dll
+C:\Users\VS2017-DEV\Desktop\src\slnChinookProject\Chinook.Entities.Queries\bin\Debug\Chinook.Entities.Queries.pdb
+C:\Users\VS2017-DEV\Desktop\src\slnChinookProject\Chinook.Entities.Queries\obj\Debug\Chinook.Entities.Queries.csprojResolveAssemblyReference.cache
+C:\Users\VS2017-DEV\Desktop\src\slnChinookProject\Chinook.Entities.Queries\obj\Debug\Chinook.Entities.Queries.csproj.CoreCompileInputs.cache
+C:\Users\VS2017-DEV\Desktop\src\slnChinookProject\Chinook.Entities.Queries\obj\Debug\Chinook.Entities.Queries.dll
+C:\Users\VS2017-DEV\Desktop\src\slnChinookProject\Chinook.Entities.Queries\obj\Debug\Chinook.Entities.Queries.pdb
+C:\Users\VS2017-DEV\Desktop\Lab07\src\slnChinookProject\Chinook.Entities.Queries\bin\Debug\Chinook.Entities.Queries.dll
+C:\Users\VS2017-DEV\Desktop\Lab07\src\slnChinookProject\Chinook.Entities.Queries\bin\Debug\Chinook.Entities.Queries.pdb
+C:\Users\VS2017-DEV\Desktop\Lab07\src\slnChinookProject\Chinook.Entities.Queries\obj\Debug\Chinook.Entities.Queries.csprojResolveAssemblyReference.cache
+C:\Users\VS2017-DEV\Desktop\Lab07\src\slnChinookProject\Chinook.Entities.Queries\obj\Debug\Chinook.Entities.Queries.csproj.CoreCompileInputs.cache
+C:\Users\VS2017-DEV\Desktop\Lab07\src\slnChinookProject\Chinook.Entities.Queries\obj\Debug\Chinook.Entities.Queries.dll
+C:\Users\VS2017-DEV\Desktop\Lab07\src\slnChinookProject\Chinook.Entities.Queries\obj\Debug\Chinook.Entities.Queries.pdb

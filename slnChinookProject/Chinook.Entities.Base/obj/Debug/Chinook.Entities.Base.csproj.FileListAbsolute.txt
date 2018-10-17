@@ -1,0 +1,16 @@
+D:\CursoVS2017APP\Labs2018\Lab06\src\slnChinookProject\Chinook.Entities.Base\bin\Debug\Chinook.Entities.Base.dll
+D:\CursoVS2017APP\Labs2018\Lab06\src\slnChinookProject\Chinook.Entities.Base\bin\Debug\Chinook.Entities.Base.pdb
+D:\CursoVS2017APP\Labs2018\Lab06\src\slnChinookProject\Chinook.Entities.Base\obj\Debug\Chinook.Entities.Base.csproj.CoreCompileInputs.cache
+D:\CursoVS2017APP\Labs2018\Lab06\src\slnChinookProject\Chinook.Entities.Base\obj\Debug\Chinook.Entities.Base.dll
+D:\CursoVS2017APP\Labs2018\Lab06\src\slnChinookProject\Chinook.Entities.Base\obj\Debug\Chinook.Entities.Base.pdb
+C:\Users\VS2017-DEV\Desktop\src\slnChinookProject\Chinook.Entities.Base\bin\Debug\Chinook.Entities.Base.dll
+C:\Users\VS2017-DEV\Desktop\src\slnChinookProject\Chinook.Entities.Base\bin\Debug\Chinook.Entities.Base.pdb
+C:\Users\VS2017-DEV\Desktop\src\slnChinookProject\Chinook.Entities.Base\obj\Debug\Chinook.Entities.Base.csproj.CoreCompileInputs.cache
+C:\Users\VS2017-DEV\Desktop\src\slnChinookProject\Chinook.Entities.Base\obj\Debug\Chinook.Entities.Base.dll
+C:\Users\VS2017-DEV\Desktop\src\slnChinookProject\Chinook.Entities.Base\obj\Debug\Chinook.Entities.Base.pdb
+C:\Users\VS2017-DEV\Desktop\Lab07\src\slnChinookProject\Chinook.Entities.Base\bin\Debug\Chinook.Entities.Base.dll
+C:\Users\VS2017-DEV\Desktop\Lab07\src\slnChinookProject\Chinook.Entities.Base\bin\Debug\Chinook.Entities.Base.pdb
+C:\Users\VS2017-DEV\Desktop\Lab07\src\slnChinookProject\Chinook.Entities.Base\obj\Debug\Chinook.Entities.Base.csprojResolveAssemblyReference.cache
+C:\Users\VS2017-DEV\Desktop\Lab07\src\slnChinookProject\Chinook.Entities.Base\obj\Debug\Chinook.Entities.Base.csproj.CoreCompileInputs.cache
+C:\Users\VS2017-DEV\Desktop\Lab07\src\slnChinookProject\Chinook.Entities.Base\obj\Debug\Chinook.Entities.Base.dll
+C:\Users\VS2017-DEV\Desktop\Lab07\src\slnChinookProject\Chinook.Entities.Base\obj\Debug\Chinook.Entities.Base.pdb
