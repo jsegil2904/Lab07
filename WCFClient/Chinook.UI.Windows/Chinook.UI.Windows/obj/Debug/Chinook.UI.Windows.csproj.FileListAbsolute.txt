@@ -1,0 +1,10 @@
+C:\Users\VS2017-DEV\Desktop\Lab07\src\WCFClient\Chinook.UI.Windows\Chinook.UI.Windows\bin\Debug\Chinook.UI.Windows.exe.config
+C:\Users\VS2017-DEV\Desktop\Lab07\src\WCFClient\Chinook.UI.Windows\Chinook.UI.Windows\bin\Debug\Chinook.UI.Windows.exe
+C:\Users\VS2017-DEV\Desktop\Lab07\src\WCFClient\Chinook.UI.Windows\Chinook.UI.Windows\bin\Debug\Chinook.UI.Windows.pdb
+C:\Users\VS2017-DEV\Desktop\Lab07\src\WCFClient\Chinook.UI.Windows\Chinook.UI.Windows\obj\Debug\Chinook.UI.Windows.csprojResolveAssemblyReference.cache
+C:\Users\VS2017-DEV\Desktop\Lab07\src\WCFClient\Chinook.UI.Windows\Chinook.UI.Windows\obj\Debug\Chinook.UI.Windows.Form1.resources
+C:\Users\VS2017-DEV\Desktop\Lab07\src\WCFClient\Chinook.UI.Windows\Chinook.UI.Windows\obj\Debug\Chinook.UI.Windows.Properties.Resources.resources
+C:\Users\VS2017-DEV\Desktop\Lab07\src\WCFClient\Chinook.UI.Windows\Chinook.UI.Windows\obj\Debug\Chinook.UI.Windows.csproj.GenerateResource.Cache
+C:\Users\VS2017-DEV\Desktop\Lab07\src\WCFClient\Chinook.UI.Windows\Chinook.UI.Windows\obj\Debug\Chinook.UI.Windows.csproj.CoreCompileInputs.cache
+C:\Users\VS2017-DEV\Desktop\Lab07\src\WCFClient\Chinook.UI.Windows\Chinook.UI.Windows\obj\Debug\Chinook.UI.Windows.exe
+C:\Users\VS2017-DEV\Desktop\Lab07\src\WCFClient\Chinook.UI.Windows\Chinook.UI.Windows\obj\Debug\Chinook.UI.Windows.pdb
